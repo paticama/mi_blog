@@ -25,11 +25,11 @@ Lista numerada
 
 ### Título 3
 
-Esto es un [enlace a wikipedia] https://es.wikipedia.org/wiki/Wikipedia:Portada
+Esto es un [enlace a wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 ## Imagen
 
-!(Imagen) https://mymodernmet.com/wp/wp-content/uploads/2019/11/koalas-habitat-destruction-bushfires.jpg
+![Imagen](https://mymodernmet.com/wp/wp-content/uploads/2019/11/koalas-habitat-destruction-bushfires.jpg)
 ## Tabla
 |Valores| X | Y |
 |-------|---|---|
